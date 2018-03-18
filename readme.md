@@ -1,7 +1,5 @@
 # Project Protflofio - Heart Disease - Anomaly Detection (Arrhythmia)
 
-Course materials for the reinforcement learning
-
 This project is built and maintained by Tiago Oliveira - [ti.olive@gmail.com](https://www.linkedin.com/in/tiagoliveira/).
 
 ### References literature
