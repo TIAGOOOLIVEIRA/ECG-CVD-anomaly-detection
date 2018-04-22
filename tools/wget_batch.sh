@@ -1,0 +1,10 @@
+wget -i URL_generator_A01.txt
+wget -i URL_generator_A00.txt
+wget -i URL_generator_A02.txt
+wget -i URL_generator_A03.txt
+wget -i URL_generator_A04.txt
+wget -i URL_generator_A05.txt
+wget -i URL_generator_A06.txt
+wget -i URL_generator_A07.txt
+wget -i URL_generator_A08.txt
+wget -i URL_validation_A04.txt
